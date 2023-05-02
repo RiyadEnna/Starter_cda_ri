@@ -1,0 +1,22 @@
+.logo {
+    position: absolute;
+    width: 83px;
+    height: 83px;
+    left: 10%;
+    top: 6px;
+    background: url(Logo_J.png);
+}
+
+
+.nav_text {
+    //font-family: 'Futura PT Cond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 20px;
+
+    /* identical to box height, or 71% */
+    text-transform: uppercase;
+
+    color: #484848;
+}
